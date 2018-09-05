@@ -3,16 +3,33 @@ body {
   text-align: center;
 }
 
-header {
+#header {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
+  margin-bottom: 35px;
 }
+
+.phone {
+  margin-top: 20px;
+}
+
 a {
+  font-family: Verdana;
   color: Aquamarine;
   font-size: 16px;
 }
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
 h4 {
-  margin-bottom: 16px;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
 }
